@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Leccion2</string>
+    <string name="nombre">Nombre:</string>
+    <string name="juego">Empezar juego</string>
+    <string name="puntaje">Puntuación</string>
+    <string name="jugador">Nombre del jugador</string>
+</resources>
